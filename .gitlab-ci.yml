@@ -1,3 +1,5 @@
 CheckUserBotWorking:
   script:
     - echo "Nothing"
+- name: Git deploy to Heroku
+  uses: onekiloparsec/heroku-node-deploy-subfolder@v1.1.0

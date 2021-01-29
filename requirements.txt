@@ -59,7 +59,7 @@ httplib2==0.13.1
 
 justwatch
 
-urllib
+urllib3
 
 csv
 

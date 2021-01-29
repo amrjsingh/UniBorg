@@ -59,8 +59,4 @@ httplib2==0.13.1
 
 justwatch
 
-urllib3
-
-csv
-
 bs4
